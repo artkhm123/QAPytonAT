@@ -1,1 +1,2 @@
-print("Hello Otus123")
+print("Hello Otus+")
+
